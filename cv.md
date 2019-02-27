@@ -1,10 +1,22 @@
-1. Anastasiya Baranouskaya
-2. Telegram/Viber/WhatsApp 8(029)367-06-48
-3.  I want to constantly evolve. I love heavy mental stress. I like the feeling of self-satisfaction from solving complex tasks and achieving goals. I want to keep up with the times and the development of new technologies. I am a team player, but I can work on my own. I appreciate the opportunity to plan my schedule.
-4. I studied languages html, css, bootstrap framework. I can create one-page and complex sites. There is practical knowledge of working in programs HYSYS and MathCad.
-5. Graduated from the Belarusian State Technological University with a degree in chemical-engineer-technolog. Passed courses cadecademy.com on HTML and CSS, took a course FructCod.com on HTML, CSS, Bootstrap, Javascript / JQUERY.
-6. Studying English began at school, then at the university a technical bias, then Streemline courses, at the moment began to study with a tutor to improve the level of conversational skills. I actively use mobile applications to repeat vocabulary.
-7. Example of my code:
+# Anastasiya Baranouskaya
+*Telegram/Viber/WhatsApp 8(029)367-06-48*
+## About me and my goals
+- I want to constantly evolve. 
+- I love heavy mental stress. 
+- I like the feeling of self-satisfaction from solving complex tasks and achieving goals. 
+- I want to keep up with the times and the development of new technologies.
+- I am a team player, but I can work on my own. 
+- I appreciate the opportunity to plan my schedule.
+***
+## Professional Skills
+I studied languages html, css, bootstrap framework. I can create one-page and complex sites. There is practical knowledge of working in programs HYSYS and MathCad.
+***
+## Education
+Graduated from the Belarusian State Technological University with a degree in chemical-engineer-technolog. Passed courses cadecademy.com on HTML and CSS, took a course FructCod.com on HTML, CSS, Bootstrap, Javascript / JQUERY.
+***
+## English proficiency level
+Studying English began at school, then at the university a technical bias, then Streemline courses, at the moment began to study with a tutor to improve the level of conversational skills. I actively use mobile applications to repeat vocabulary.
+### Example of my code:
 <!DOCTYPE html>
 <html lang="ru">
 <head>
