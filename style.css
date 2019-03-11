@@ -1,0 +1,148 @@
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+body{
+    max-width: 1024px;
+    font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+    color: rgb(84, 84, 84)
+}
+header{
+    max-width: 1024px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #e0ebe8;
+    padding: 5px 15px 5px 25px;
+}
+.navigation{
+    display: flex;
+    align-items: center;
+}
+.nav-item{
+    display: flex;
+    flex-direction: row;
+}
+ul li{
+    list-style: none;
+}
+.goals-list li{
+    list-style: disc;
+    text-align: start;
+    font-size: 1.3em;
+}
+a{
+    text-decoration: none;
+    color: #45b29a;
+    margin-right: 40px;
+    font-size: 120%;
+}
+.nav-item a:hover{
+    color: #1b7f69;
+}
+.foto-mini{
+    width: 60px;
+    height: 60px;
+    border: 4px solid #eac328;
+    border-radius: 50%
+}
+.foto-max{
+    border-radius: 50%
+}
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: #e0ebe8;
+    padding: 15px 0px;
+}
+.top{
+    background-color: #e0ebe8;
+}
+.head-wrap{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    padding: 2em 8em;
+}
+.head-picture{
+    display: flex;
+    max-width: 800px;
+    margin: 0 auto;
+}
+figure{
+    display: block;
+    text-align: center;
+}
+h1{
+    font-family: 'Playball', cursive;
+    font-size: 60px;
+    font-weight: lighter;
+    color: #45b29a;
+}
+.head-text p{
+    color: #45b29a;
+    padding: 1em 0;
+    font-size: 150%;
+    font-weight: 400;
+}
+#about-me, #goals, #skills, #education, #foreign-language, #contacts{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 2em 0 4em;
+}
+.myself{
+    max-width: 460px;
+}
+p {
+    font-size: 1.3em;
+    margin: 0px 0px 10px;
+}
+h2, h3 {
+    font-size: 2em;
+    font-weight: lighter;
+    color: rgb(69, 178, 154);
+    padding: 30px 0 40px;
+}
+h2{
+    font-size: 3em;
+}
+.content{
+    max-width: 70%;
+}
+.line-slider{
+    display: flex;
+    justify-content: center;
+}
+.line-container{
+    display: flex;
+    justify-content: space-between;
+    width: 10%;
+}
+.line-item{
+    width: 4px;
+    height: 4px;
+    background-color: grey;
+    border-radius: 50%;
+    opacity: 0.5;
+}
+.contacts-links{
+    display: flex;
+    flex-direction: column;
+}
+.contacts-links a{
+    margin-right: 0;
+}
+button{
+    width: 30%;
+    color: #1b7f69;
+    background-color:  #45b29a;
+    padding: 10px;
+    margin: 30px 0;
+}
+.mobile-link{
+    margin-top: 30px;
+}
